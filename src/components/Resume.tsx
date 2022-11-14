@@ -7,7 +7,7 @@ export default function Resume() {
           <p class="b-underline"></p>
         </div>
         <div class="row global-margin justify-content-center">
-          <iframe style={'height: 100vh'} src="https://res.aburke.tech"></iframe>
+          <iframe style={'height: 90vh'} src="https://res.aburke.tech"></iframe>
         </div>
       </div>
     </div>

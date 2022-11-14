@@ -5,6 +5,8 @@ import Title from '~/components/Title';
 import Bio from '~/components/Bio';
 import Skills from '~/components/Skills';
 import Resume from '~/components/Resume';
+import Projects from '~/components/Projects';
+import Contact from '~/components/Contact';
 
 export default function Home() {
   createEffect(() => {
@@ -18,6 +20,8 @@ export default function Home() {
       <Bio />
       <Skills />
       <Resume />
+      <Projects />
+      <Contact />
     </main>
   );
 }

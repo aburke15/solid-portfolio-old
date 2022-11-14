@@ -15,6 +15,7 @@
     "@solidjs/meta": "^0.28.0",
     "@solidjs/router": "^0.5.0",
     "bootstrap": "^5.2.2",
+    "react-data-table-component": "^7.5.3",
     "solid-js": "^1.6.0",
     "solid-start": "^0.2.0",
     "undici": "^5.11.0"
