@@ -1,4 +1,4 @@
-import src from '../../public/images/me.png';
+import src from '/public/images/me.png';
 
 export default function Bio() {
   return (

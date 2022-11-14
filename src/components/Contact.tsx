@@ -1,6 +1,6 @@
-import linkedIn from '../../public/images/linkedin.png';
-import github from '../../public/images/github.png';
-import youtube from '../../public/images/youtube.png';
+import linkedIn from '/images/linkedin.png';
+import github from '/images/github.png';
+import youtube from '/images/youtube.png';
 
 export default function Contact() {
   return (

@@ -1,12 +1,12 @@
-import csharp from '../../public/images/csharp.png';
-import netCore from '../../public/images/aspnetcore.png';
-import efCore from '../../public/images/ef_core.png';
-import reactJs from '../../public/images/react.png';
-import sql from '../../public/images/sql_server.png';
-import git from '../../public/images/git.svg';
-import ts from '../../public/images/ts.png';
-import css from '../../public/images/css.png';
-import html from '../../public/images/html.png';
+import csharp from '/images/csharp.png';
+import netCore from '/images/aspnetcore.png';
+import efCore from '/images/ef_core.png';
+import reactJs from '/images/react.png';
+import sql from '/images/sql_server.png';
+import git from '/images/git.svg';
+import ts from '/images/ts.png';
+import css from '/images/css.png';
+import html from '/images/html.png';
 
 export default function Skills() {
   return (

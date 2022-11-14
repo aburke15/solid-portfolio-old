@@ -1,5 +1,5 @@
 import { createEffect } from 'solid-js';
-import '../../styles/portfolio.css';
+import '/styles/portfolio.css';
 import Navbar from '~/components/Navbar';
 import Title from '~/components/Title';
 import Bio from '~/components/Bio';

@@ -1,4 +1,4 @@
-import favi from '../../public/images/favicon.png';
+import favi from '/images/favicon.png';
 
 export default function Navbar() {
   return (
